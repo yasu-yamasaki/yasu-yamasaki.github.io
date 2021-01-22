@@ -2,9 +2,13 @@ baseURL = "http://yasu-yamasaki.github.io/"
 languageCode = "jp"
 title = "yasu-yamasakiのブログ"
 theme = "cactus"
+description = "自分の中のブログのハードルを下げる。でも、ネガティブなことは書かない。"
 
 [params]
 colortheme = "white"
+
+[params.comments]
+enabled = true
 
 [[menu.main]]
 name = "Home"
@@ -20,3 +24,11 @@ weight = 2
 name = "Tags"
 url = "/tags"
 weight = 3
+
+[[params.social]]
+name = "github"
+link = "https://github.com/yasu-yamasaki"
+
+[[params.social]]
+name = "twitter"
+link = "https://twitter.com/yasu_yamasaki"
