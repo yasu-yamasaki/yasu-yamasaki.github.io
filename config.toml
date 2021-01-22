@@ -1,4 +1,4 @@
-baseURL = "http://yasu-yamasaki.github.io/"
+baseURL = "https://yasu-yamasaki.github.io/"
 languageCode = "jp"
 title = "yasu-yamasakiのブログ"
 theme = "cactus"
