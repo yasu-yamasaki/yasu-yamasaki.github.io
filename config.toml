@@ -2,10 +2,10 @@ baseURL = "https://yasu-yamasaki.github.io/"
 languageCode = "jp"
 title = "yasu-yamasakiのブログ"
 theme = "cactus"
-description = "自分の中のブログのハードルを下げる。でも、ネガティブなことは書かない。"
 
 [params]
 colortheme = "white"
+description = "自分の中のブログのハードルを下げる。でも、ネガティブなことは書かない。"
 
 [params.comments]
 enabled = true
