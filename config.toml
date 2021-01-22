@@ -1,3 +1,22 @@
 baseURL = "http://yasu-yamasaki.github.io/"
 languageCode = "jp"
 title = "yasu-yamasakiのブログ"
+theme = "cactus"
+
+[params]
+colortheme = "white"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
