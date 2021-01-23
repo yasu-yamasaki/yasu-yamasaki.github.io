@@ -2,4 +2,4 @@
 https://yasu-yamasaki.github.io
 
 ## Theme
-https://docs.stack.jimmycai.com/
+https://github.com/CaiJimmy/hugo-theme-stack

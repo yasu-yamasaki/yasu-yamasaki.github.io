@@ -5,7 +5,10 @@ tags: [ "hugo", "Github Pages", "Github Actions" ]
 ---
 
 このブログは「hugo + Github Pages + Github Actions」でできています。  
-作り方は、以下２つみれば完璧にできます。  
+
+<!--more-->
+
+作り方は、以下２つみれば完璧にできます。 
 
 * https://gohugo.io/getting-started/quick-start/  
 * https://qiita.com/peaceiris/items/d401f2e5724fdcb0759d
