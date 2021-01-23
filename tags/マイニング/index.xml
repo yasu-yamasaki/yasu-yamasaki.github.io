@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>マイニング on yasu-yamasakiのブログ</title><link>https://yasu-yamasaki.github.io/tags/%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0/</link><description>Recent content in マイニング on yasu-yamasakiのブログ</description><generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Sat, 23 Jan 2021 10:59:24 +0900</lastBuildDate><atom:link href="https://yasu-yamasaki.github.io/tags/%E3%83%9E%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0/index.xml" rel="self" type="application/rss+xml"/><item><title>NiceHashでマイニングはじめました</title><link>https://yasu-yamasaki.github.io/posts/202101/mining/</link><pubDate>Sat, 23 Jan 2021 10:59:24 +0900</pubDate><guid>https://yasu-yamasaki.github.io/posts/202101/mining/</guid><description>仮想通貨のマイニングをはじめた。
+結論 今の所、儲かりそう。
+１日あたり 掘れ高:438円/d
+電気代:0.23[kW] * 25 [円*KW/h] * 24 = 138[円/d]
+438 - 138 = 300[円/d]
+1月あたり 9000[円/m]!!!
+パソコンのスペック CPU: intell 10400F GPU: Palit GeForce RTX™ 3070 JetStream OC https://www.palit.com/palit/vgapro.php?id=3851&amp;amp;lang=jp 詳細 CPU miningは赤字だからやってない。 GPUだけ。
+NiceHash使った。
+始めるのは簡単だった。
+チューニングはやったほうが良い。
+これで、ワットパフォーマンスが1.4倍くらいになった。 しかも、発熱が抑えられ、GPUにヘルシーになった。
+NiceHashがsweet spotを教えてくれてる。
+https://www.nicehash.com/blog/post/nvidia-geforce-rtx-3070-mining-hashrate
+これで、消費電力が200W -&amp;gt; 160Wになり、ハッシュレートも53MH/sくらから、60MH/sに上がった。
+グラボのOCには msi AfterBurner を使った。
+グラボもマザボもmsiじゃないけど、普通に使えた。（次はmsi買いますね。）
+OCって、GPUを消耗する行為だと思ったけど、逆に制限加えてヘルシーにできるってことを知った。
+ついでに、マイニングちゃんとしたやり方すればGPUにダメージないよ。っていう記事
+https://www.nicehash.com/blog/post/can-mining-damage-my-gpu-or-a-pc
+以上</description></item></channel></rss>
