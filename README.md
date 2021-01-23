@@ -2,4 +2,4 @@
 https://yasu-yamasaki.github.io
 
 ## Theme
-https://github.com/monkeyWzr/hugo-theme-cactus
+https://docs.stack.jimmycai.com/
