@@ -2,6 +2,7 @@ baseURL = "https://yasu-yamasaki.github.io/"
 languageCode = "jp"
 title = "yasu-yamasakiのブログ"
 theme = "cactus"
+disqusShortname = "https-yasu-yamasaki-github-io"
 
 [params]
 colortheme = "white"
