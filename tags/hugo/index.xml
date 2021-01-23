@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on yasu-yamasakiのブログ</title><link>https://yasu-yamasaki.github.io/tags/hugo/</link><description>Recent content in hugo on yasu-yamasakiのブログ</description><generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Fri, 22 Jan 2021 19:00:24 +0900</lastBuildDate><atom:link href="https://yasu-yamasaki.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo + Github Pagesの感想</title><link>https://yasu-yamasaki.github.io/posts/202101/hugo/</link><pubDate>Fri, 22 Jan 2021 19:00:24 +0900</pubDate><guid>https://yasu-yamasaki.github.io/posts/202101/hugo/</guid><description>このブログは「hugo + Github Pages + Github Actions」でできています。
-作り方は、以下２つみれば完璧にできます。
-https://gohugo.io/getting-started/quick-start/ https://qiita.com/peaceiris/items/d401f2e5724fdcb0759d この記事ではその感想を書きます。
-hugo 良いとこ 慣れたから簡単 開発環境が軽い テンプレート豊富 Disqusと連携してコメントかけるところも好き 悪いとこ hugoをインストールしないといけないところ。まぁ記事増やすだけなら無しでも行けるそうではあるが。 トータル、好き。
-Amplify Consoleと組み合わせて、サクッと、コーポレートサイト作るみたいなのやってみたい。
-github.io 良いとこ 慣れれば簡単 無料 使ってるとエンジニア感を醸し出せる 悪いところ 仕様に若干の無理矢理感があり、直感的じゃない 有り難いが、あんまり好きになれない。
-リポジトリにコミットされたHTMLがそのままホスティングされる仕様なので、generateしたコードをコミットしなければならない。
-ソースコードとgenerateされたコードを分けるための苦肉の作が、gh-pagesブランチが公開用のブランチとして利用される仕様。
-直感的じゃなくて、分かりづらい。 業務では、あんまり使わないように生きてくかも。
-Github Actions 大好き
-以上</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hugo on ヤス ブロ</title><link>https://yasu-yamasaki.github.io/tags/hugo/</link><description>Recent content in hugo on ヤス ブロ</description><generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Fri, 22 Jan 2021 19:00:24 +0900</lastBuildDate><atom:link href="https://yasu-yamasaki.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>hugo + Github Pagesの感想</title><link>https://yasu-yamasaki.github.io/posts/202101/hugo/</link><pubDate>Fri, 22 Jan 2021 19:00:24 +0900</pubDate><guid>https://yasu-yamasaki.github.io/posts/202101/hugo/</guid><description>&lt;p>このブログは「hugo + Github Pages + Github Actions」でできています。&lt;/p></description></item></channel></rss>
