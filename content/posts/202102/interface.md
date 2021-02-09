@@ -47,7 +47,7 @@ interface CoffeeMilkAnalyzer {
 
 ```kotlin
 
- import java.math.BigDecimalimport java.math.BigDecimalimport java.math.BigDecimalinterface CoffeeMilkAnalyzer {
+interface CoffeeMilkAnalyzer {
     fun getCoffeeContentRate(target: CoffeeMilk): CoffeeContentRate
     
     data class CoffeeContentRate(
