@@ -20,7 +20,7 @@ interface CoffeeMilkAnalyzer {
 }
 ```
 
-そこで私は思ったのは、 `getCoffeeContentRate` って、
+そこで私が思ったのは、 `getCoffeeContentRate` って、
 
 * 少数？（0 <= x <= 1）
 * パーセント？（0 <= x <= 100）
