@@ -8,11 +8,11 @@ tags: [ "Intellij", "Tech", "Kotlin" ]
 
 jdbcTemplateの引数のSQLって、intellijで補完効きますよね。
 
-![SQL](intellij-sql-2.png)
+![SQL](intellij-sql-2.jpg)
 
 でも、下記のように、SQLだと認識できない文字列だと、補完は効きません。
 
-![SQL](intellij-sql-1.png)
+![SQL](intellij-sql-1.jpg)
 
 今回は、これをIntellijにSQLだと認識させられるようにします！
 
@@ -28,8 +28,8 @@ https://mvnrepository.com/artifact/com.intellij/annotations
 `org.intellij.lang.annotations.Language`アノテーションを適当な場所につけて、
 valueに"SQL"をいれる。
 
-![SQL](intellij-sql-3.png)
+![SQL](intellij-sql-3.jpg)
 
 以下のように、引数にもつけられるので、JdbcTemplateを拡張したら、ハイライトつかなくなった！みたいな場合も安心。
 
-![SQL](intellij-sql-4.png)
+![SQL](intellij-sql-4.jpg)
